@@ -1,1 +1,1 @@
-console.log('fungsi pertama');
+console.log('fungsi perta pSSTIAK ma');
